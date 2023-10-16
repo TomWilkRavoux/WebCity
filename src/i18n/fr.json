@@ -1,0 +1,61 @@
+{
+    "common": {
+            "translated-text": "C'est en français",
+            "translated.banner-born": "Né de la vision d'un trio d'artistes, WeirdCity propose des services professionnels d'enregistrement et de gestion d'événements. Notre studio est équipé pour répondre aux attentes des artistes modernes, tandis que notre expertise dans l'organisation d'événements garantit des expériences musicales de qualité.",
+            "translated.Banner-aboutus": "À propos de nous",
+            "translated.Banner-My-portfolio": "Mon Portfolio",
+            "translated.Banner-weare": "NOUS SOMMES",
+            "translated.Banner-rapper": "Rappeur",
+            "translated.Banner-producer": "PRODUCTEUR",
+            "translated.Banner-beatmaker": "BEATMAKER",
+            "translated.About-foryear": "Nous sommes producteurs de musique depuis 4 ans",
+            "translated.About-text1": "loremfdsghbhndgfnjhgqehsnfdsgrdhnsgq<fzsdfg,nhsgqFR<SWVBSRDWV",
+            "translated.About-text2": "Années d'expérience",
+            "translated.About-text3": "Projet",
+            "translated.About-text4": "Clients satisfaits",
+            "translated.About-text5": "Contactez-nous",
+            "translated.About-text6": "Mon Portfolio",
+            "translated.About-text7": "Ce que nous faisons",
+            "translated.About-text8": "Nous sommes producteurs de musique depuis 5 ans, etc...",
+            "translated.About-text9": "Voir mon travail",
+      "services": [
+        {
+            "name": "Producteur",
+      "description": "Lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor lorem ipsum dolor",
+      "link": "En savoir plus"
+    },
+    {
+      "name": "BeatMaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor lorem ipsum dolor",
+      "link": "En savoir plus"
+    },
+    {
+      "name": "Rappeur",
+      "description": "Rappeur et producteur singulier et excentrique",
+      "link": "En savoir plus"
+    },
+    {
+      "name": "Rappeur",
+      "description": "Lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor lorem ipsum dolor",
+      "link": "En savoir plus"
+        }
+      ],
+      "translated-work-text1": "Mon dernier travail",
+      "translated-work-text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, s",
+      "translated-work-text3": "Voir tous les projets",
+      "translated-work-text4": "Producteur",
+      "translated-work-text5": "Titre du projet",
+      "translated.Contact-text1": "Prendre contact",
+    "translated.Contact-text2": "Travaillons ensemble !",
+    "translated.Contact-text3": "Votre nom",
+    "translated.Contact-text4": "Votre e-mail",
+    "translated.Contact-text5": "Votre message",
+    "translated.Contact-text6": "Envoyer le message",
+    "translated.Header-text1": "Travaille avec moi"
+
+      
+    }
+
+    
+  }
+  

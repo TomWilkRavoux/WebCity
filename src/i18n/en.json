@@ -1,0 +1,58 @@
+{
+    "common": {
+      "translated-text": "This is english",
+      "translated.banner-born": "Born from the vision of an artist trio, WeirdCity offers professional recording and event management services. Our studio is equipped to meet the expectations of modern artists, while our expertise in event organization ensures quality musical experiences.",
+      "translated.Banner-aboutus":"About us",
+      "translated.Banner-My-portfolio":"My Portfolio",
+      "translated.Banner-weare": "WE ARE",
+      "translated.Banner-rapper":"Rapper",
+      "translated.Banner-producer":"PRODUCER",
+      "translated.Banner-beatmaker":"BEATMAKER",
+      "translated.About-foryear":" We've been music producers for 4 years",
+      "translated.About-text1":"loremfdsghbhndgfnjhgqehsnfdsgrdhnsgq<fzsdfg,nhsgqFR<SWVBSRDWV",
+      "translated.About-text2":"Years of Experience",
+      "translated.About-text3":"Project",
+      "translated.About-text4":"Satisfed Clients",
+      "translated.About-text5":"Contact us",
+      "translated.About-text6":"My Portfolio",
+      "translated.About-text7":"What We Do ",
+      "translated.About-text8":"We've been music producers for 5 years etc ...",
+      "translated.About-text9":"See my work",
+      "services": [
+        {
+          "name": "Producer",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, lorem ipsum dolor, lorem ipsum dolor",
+          "link": "Learn more"
+        },
+        {
+          "name": "BeatMaker",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, lorem ipsum dolor, lorem ipsum dolor",
+          "link": "Learn more"
+        },
+        {
+          "name": "Rapper",
+          "description": "Singular and eccentric rapper and producer",
+          "link": "Learn more"
+        },
+        {
+          "name": "Rapper",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, lorem ipsum dolor, lorem ipsum dolor",
+          "link": "Learn more"
+        }
+      ],
+      "translated-work-text1": "My Latest Work",
+    "translated-work-text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, s",
+    "translated-work-text3": "View All Projects",
+    "translated-work-text4": "Producer",
+    "translated-work-text5": "Project Title",
+    "translated.Contact-text1": "Get in touch",
+    "translated.Contact-text2": "Let's work together!",
+    "translated.Contact-text3": "Your Name",
+    "translated.Contact-text4": "Your email",
+    "translated.Contact-text5": "Your message",
+    "translated.Contact-text6": "Send message",
+    "translated.Header-text1": "Work with me"
+    }
+    }
+  
+  

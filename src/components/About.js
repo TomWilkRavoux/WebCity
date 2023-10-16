@@ -4,13 +4,17 @@ import CountUp from 'react-countup';
 //intersection observer
 import { useInView } from 'react-intersection-observer';
 //motion 
-import {motion} from 'framer-motion';
+import { motion } from 'framer-motion';
 //variants
+import { useTranslation } from 'react-i18next';
 import { fadeIn } from '../variants';
+
 
 
 const About = () => {
   const [ref, inView] = useInView({threshold: 0.5});
+
+    const { t } = useTranslation();
 
   return (
     <section className='section mt-[10%] mb-[10%]' id='about' ref={ref}>
@@ -34,14 +38,12 @@ const About = () => {
                 viewport={{once: false, amount: 0.3  }}
                 className='flex-1'
               >
-                <h2 className='h2 text-accent'>About Us</h2>
+                <h2 className='h2 text-accent'>{t('About US')}</h2>
                 <h3 className='h3 mb-4'>
-                  We've been music producers for 4 years  
+                 {t('common.translated.About-foryear')}  
                 </h3>
                 <p className='mb-6'> 
-                  lorem ipsum dolor sit amet, con lorem lorem ipsum dolor
-                  lorem ipsum dolor sit amet, con lorem lorem ipsum dolor
-                  lorem ipsum dolor sit amet, con lorem lorem ipsum dolor
+                 {t('common.translated.About-text1')}
                 </p> 
 
                 {/* stats */}
@@ -53,8 +55,7 @@ const About = () => {
                         }
                       </div>
                       <div className='font-primary text-sm tracking-[2px]'>
-                        Years of <br/>
-                        Experience 
+                      {t('common.translated.About-text2')}
                       </div>
                   </div>
                   <div>
@@ -65,8 +66,7 @@ const About = () => {
                         K+
                       </div>
                       <div className='font-primary text-sm tracking-[2px]'>
-                        Projects <br/>
-                        Completed 
+                      {t('common.translated.About-text3')}
                       </div>
                   </div>
                   <div>
@@ -77,15 +77,14 @@ const About = () => {
                         K+
                       </div>
                       <div className='font-primary text-sm tracking-[2px]'>
-                        Satisfied <br/>
-                        Clients 
+                      {t('common.translated.About-text4')}
                       </div>
                   </div>
                 </div>
                 <div className='flex gap-x-8 items-center'>
-                  <button className='btn btn-lg'>Contact us</button> 
+                  <button className='btn btn-lg'>{t('common.translated.About-text5')}</button> 
                   <a href='#' className='text-gradient btn-link'>
-                    My Portfolio
+                  {t('common.translated.About-text6')}
                   </a>
                 </div>
               </motion.div>
@@ -94,5 +93,6 @@ const About = () => {
     </section>
   )
 };
+
 
 export default About;

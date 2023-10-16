@@ -1,8 +1,10 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 //
 import Logo from '../assets/logo.svg';
 const Header = () => {
+  const { t } = useTranslation();
   return(
     <header className='py-8'>
       <div className='container mx-auto'>
@@ -15,7 +17,7 @@ const Header = () => {
 
           {/* button */}
           <button className='btn btn-sm'>
-            Work with me
+            {t('common.translated.Header-text1')}
           </button>
 
         </div>
