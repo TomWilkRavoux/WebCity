@@ -38,7 +38,7 @@ const About = () => {
               >
                 <h2 className='h2 text-accent'>About Us</h2>
                 <h3 className='h3 mb-4'>
-                  <Trans  i18nKey="description.about_h4">
+                  <Trans  i18nKey="description.about_h3">
                     We've been music producers for 4 years  
                   </Trans>
                 </h3>
