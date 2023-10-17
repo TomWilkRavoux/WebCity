@@ -16,22 +16,24 @@ i18n
             },
             resources: {
                 en: {
-                  translation: {
+                    translation: {
                     description: {
-                      part1: 'Work with me.',
-                      
+                        part1: 'Work with me.',
+                        about_h3:"We've been music producers for 4 years",
+                        about_p:""
                     }
-                  }
+                    }
                 },
                 fr: {
-                  translation: {
+                    translation: {
                     description: {
-                      part1: 'Travaillons ensembles.',
-                      
+                        part1: 'Travaillons ensembles.',
+                        about_h3:"Nous somme musciens et producteurs depuis 4 ans",
+                        about_p:""
                     }
-                  }
                 }
-              }
+                }
+            }
             
         });
 

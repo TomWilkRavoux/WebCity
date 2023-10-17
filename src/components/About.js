@@ -7,6 +7,8 @@ import { useInView } from 'react-intersection-observer';
 import {motion} from 'framer-motion';
 //variants
 import { fadeIn } from '../variants';
+import { Trans } from 'react-i18next';
+
 
 
 const About = () => {
@@ -36,7 +38,9 @@ const About = () => {
               >
                 <h2 className='h2 text-accent'>About Us</h2>
                 <h3 className='h3 mb-4'>
-                  We've been music producers for 4 years  
+                  <Trans  i18nKey="description.about_h4">
+                    We've been music producers for 4 years  
+                  </Trans>
                 </h3>
                 <p className='mb-6'> 
                   lorem ipsum dolor sit amet, con lorem lorem ipsum dolor
