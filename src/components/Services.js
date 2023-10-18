@@ -35,7 +35,7 @@ const services = [
 
 const Services = () => {
   return (
-    <section classNam e='section' id='services'>
+    <section className='section' id='services'>
       <div className='container mx-auto'>
         <div className='flex flex-col lg:flex-row'>
           {/* text & img*/}
